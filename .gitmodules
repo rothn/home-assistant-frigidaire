@@ -1,0 +1,3 @@
+[submodule "custom_components/frigidaire/frigidaire"]
+	path = custom_components/frigidaire/frigidaire
+	url = https://github.com/rothn/frigidaire.git

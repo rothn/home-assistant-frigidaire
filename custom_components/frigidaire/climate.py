@@ -4,7 +4,7 @@ from __future__ import annotations
 import logging
 from typing import Optional, List, Mapping, Any, Dict
 
-import frigidaire
+from .frigidaire import frigidaire
 
 from homeassistant.components.climate import ClimateEntity
 from homeassistant.components.climate.const import (

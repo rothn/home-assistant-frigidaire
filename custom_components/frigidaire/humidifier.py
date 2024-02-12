@@ -4,7 +4,7 @@ from __future__ import annotations
 import logging
 from typing import List, Any, Mapping, Optional
 
-import frigidaire
+from .frigidaire import frigidaire
 import voluptuous as vol
 
 from homeassistant.components.humidifier import HumidifierEntity
